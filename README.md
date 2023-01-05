@@ -1,16 +1,14 @@
-# recriando_picpay
+# PicPay Clone - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/210832198-b249baba-772c-4451-889f-499156705b54.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse clone da interface do PicPay foi feito em Dart + Flutter. Foram criados Widgets personalizados para ser fiel a UI original.
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
